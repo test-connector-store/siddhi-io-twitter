@@ -1,0 +1,19 @@
+{
+    "name": "twitter",
+    "owner": "WSO2",
+    "category": "Siddhi IO",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-io-twitter/",
+    "description": "The siddhi-io-twitter extension is an extension to Siddhi which is used to publish event data from Twitter App. It supports key-value map format.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-io",
+        "twitter"
+    ],
+    "releases": [
+        {
+            "tagName": "1.1.1",
+            "products": []
+        }
+    ]
+}
